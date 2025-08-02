@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IramMahmudRuhan
 - 👀 I’m interested in learning, contributing and collabration
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Ruhan.012idk@gmail.com
 - 😄 Pronouns: ...
